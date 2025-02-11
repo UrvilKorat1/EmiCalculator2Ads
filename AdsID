@@ -14,6 +14,7 @@
   "back_ads": "yes",
   "ads_reward": "Yes",
   "ads_native": "Yes",
+  "native_preload": "Yes",
   "ads_exit": "No",
   "app_opentime": "0",
   "app_openFirsttime": "1",
