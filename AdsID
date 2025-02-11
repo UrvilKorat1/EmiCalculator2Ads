@@ -13,6 +13,7 @@
   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "back_ads": "yes",
   "ads_reward": "Yes",
+  "ads_native": "Yes",
   "ads_exit": "No",
   "app_opentime": "0",
   "app_openFirsttime": "1",
