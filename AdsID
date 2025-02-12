@@ -12,7 +12,7 @@
   "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "back_ads": "yes",
-  "ads_reward": "Yes",
+  "ads_banner": "Yes",
   "ads_native": "Yes",
   "native_preload": "Yes",
   "ads_exit": "No",
